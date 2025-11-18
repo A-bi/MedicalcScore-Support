@@ -48,9 +48,11 @@ The app is:
 - for **educational and informational purposes only**
 - **not** a medical device  
 - **not** a substitute for clinical judgment  
-- **not** intended for diagnosis or treatment  
-
----
+- **not** intended for diagnosis or treatment
+  
+Intended Audience / Language Notice:
+This app is designed primarily for medical professionals and medical students in Germany, Austria, and Switzerland.
+It is provided for educational and clinical support purposes only and does not replace clinical judgment or local guidelines.---
 
 ## 📚 Evidence & Citations
 
